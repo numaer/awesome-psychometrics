@@ -14,6 +14,12 @@
 
 ## Contents
 
-- [Papers](#platforms)
+- [Papers](#papers)
 - [Tools](#tools)
+- [Datasets](#datasets)
+- [Notebooks](#notebooks)
 - [Related](#related)
+
+## Datasets
+
+- [MBTI Dataset](https://www.kaggle.com/datasnaek/mbti-type) - The Myers Briggs Type Indicator (or MBTI for short) is a personality type system that divides everyone into 16 distinct personality types 
