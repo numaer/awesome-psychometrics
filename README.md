@@ -24,6 +24,7 @@
 
 ## Papers
 
+- [History and Methodological aspects of Psychometrics](https://osf.io/mtfjy/download/?format=pdf) - An Overview of the History and Methodological Aspects of Psychometrics
 - [Big 5 Personality Modelling](https://sentic.net/deep-learning-based-personality-detection.pdf) - Deep Learning-Based Document Modeling for Personality Detection from Text
 
 ## Tools
@@ -49,7 +50,9 @@
 
 ## People
 
-- [Rivka Levitan](http://www.sci.brooklyn.cuny.edu/~levitan/) - Spoken language processing, focusing on analysis of intonation, social signals derivable from speech, and discourse analysis
+| Name        | Publications           | Description  |
+| ------------- |:-------------:| ----- |
+| [Rivka Levitan](http://www.sci.brooklyn.cuny.edu/~levitan/) | [Publication](https://scholar.google.com/citations?user=BKeOMSkAAAAJ&hl=en) | Spoken language processing, focusing on analysis of intonation, social signals derivable from speech, and discourse analysis
 
 ## Related
 
