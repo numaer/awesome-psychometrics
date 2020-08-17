@@ -6,7 +6,7 @@
 	<p>
 		<p>
 			<sup>
-                Who looks outside, dreams; who looks inside, awakes.
+                Who looks outside, dreams; who looks inside, awakes - Carl Jung
 			</sup>
 		</p>
 	</p>
@@ -14,6 +14,7 @@
 
 ## Contents
 
+- [Ethics](#ethics)
 - [Papers](#papers)
 - [Tools](#tools)
 - [Notebooks](#notebooks)
@@ -21,11 +22,17 @@
 - [People](#people)
 - [Related](#related)
 
+## Ethics
+Please be mindful of ethics around psychometrics.These resources are for educational uses intended to help further understand applying computational & quantitative methods to traditional psychology.
+
+- [Guidelines on the use of Psychometric Tests](http://www.psychologistsboard.org.nz/cms_show_download.php?id=254)
+- [Ethical Considerations in Demographic and Psychographic Analysis](https://nlp.stanford.edu/seminar/details/jbaldridge.pdf) - "We must make choices, as individual researchers and as a field"
 
 ## Papers
 
 - [History and Methodological aspects of Psychometrics](https://osf.io/mtfjy/download/?format=pdf) - An Overview of the History and Methodological Aspects of Psychometrics
 - [Big 5 Personality Modelling](https://sentic.net/deep-learning-based-personality-detection.pdf) - Deep Learning-Based Document Modeling for Personality Detection from Text
+- [25 Tweets to Know You](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15681/14833) - A New Model to Predict Personality with Social Media
 
 ## Tools
 
@@ -58,4 +65,3 @@
 
 - [Schools for Quantitative Psychology](https://en.wikipedia.org/wiki/List_of_schools_for_quantitative_psychology) - Nonexhaustive list of schools that offer degrees in quantitative psychology or related fields such as psychometrics or research methodology
 - [Awesome Psychology](https://github.com/weeeBox/awesome-psychology) - A categorized community-driven collection of high-quality awesome Psychology courses, videos, and books
-- [Awesome Social Engineering](https://github.com/v2-dev/awesome-social-engineering) - A curated list of awesome social engineering resources
