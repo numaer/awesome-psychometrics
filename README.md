@@ -18,6 +18,7 @@
 - [Papers](#papers)
 - [Tools](#tools)
 - [Notebooks](#notebooks)
+- [NLP](#nlp)
 - [Datasets](#datasets)
 - [People](#people)
 - [Related](#related)
@@ -47,6 +48,10 @@ Please be mindful of ethics around psychometrics.These resources are for educati
 - [Psychology of a Professional Athlete](https://www.kaggle.com/selfishgene/psychology-of-a-professional-athlete) - Explore all shot attempts of Kobe Bryant throughout his career and try to see if Kobe displays the "hot hand" effect
 - [Mental Health, Happiness, Economics, Human Freedom](https://www.kaggle.com/rblcoder/mental-health-happiness-economics-human-freedom)
 - [5 Personality Clusters](https://www.kaggle.com/akdagmelih/five-personality-clusters-k-means)
+
+## NLP
+
+- [Personality for your Chatbots using RNN](https://towardsdatascience.com/personality-for-your-chatbot-with-recurrent-neural-networks-2038f7f34636)
 
 ## Datasets
 
